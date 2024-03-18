@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pentaho-query {
+    width: 640px;
+    height: 400px;
+    overflow-y: auto;
+    border: 3px solid black;
+    margin: 40px;
+    padding: 20px;
+}
+
+.count {
+    margin: 40px;
+}
